@@ -5,11 +5,18 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 
 ##Task List
 -------------
-###1.	Two Sum `` finish ``	
-	* make use the buildin data structure
-	* Hashtable search O(n)
-###2.	Add Two Numbers	
+###1.	Two Sum `finish`
+>	* make use the buildin data structure
+>	* store the integer array into hashmap(`value, index`) to make the search fast
+>	* Hashtable search O(n)
+>	* return array `return new int[]{a,b}`  
+
+###2.	Add Two Numbers	`finish`
+>	* left node is the Least Significant Digit    
+
 ###3.	Longest Substring Without Repeating Characters
+>	* traverse string from left, update the last occurs index for each character.  
+
 ###4.	Median of Two Sorted Arrays	
 ###5.	Longest Palindromic Substring
 ###6.	ZigZag Conversion	
