@@ -1,10 +1,13 @@
 # LeetCode OJ
+===============
 
 All Questions are from [oj.leetcode.com](oj.leetcode.com)
 
-##Task List##
-===========
-###1.	Two Sum	
+##Task List
+-------------
+###1.	Two Sum `` finish ``	
+	* make use the buildin data structure
+	* Hashtable search O(n)
 ###2.	Add Two Numbers	
 ###3.	Longest Substring Without Repeating Characters
 ###4.	Median of Two Sorted Arrays	
