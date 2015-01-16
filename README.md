@@ -14,7 +14,7 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###2.	Add Two Numbers	`finish`
 >	* left node is the Least Significant Digit    
 
-###3.	Longest Substring Without Repeating Characters
+###3.	Longest Substring Without Repeating Characters `finish`
 >	* traverse string from left, update the last occurs index for each character.  
 
 ###4.	Median of Two Sorted Arrays	
