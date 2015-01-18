@@ -19,8 +19,13 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 
 ###4.	Median of Two Sorted Arrays	
 ###5.	Longest Palindromic Substring
-###6.	ZigZag Conversion	
-###7.	Reverse Integer	
+###6.	ZigZag Conversion	`finish`
+>	* list several example (e.g. `nRows` = 3,4), obverse the regulation of the index increament
+>	* notice the situation when `nRows`=1  
+
+###7.	Reverse Integer	`finish`
+>	* in order to avoid overflow, a double check should be conducted after muplication.  
+
 ###8.	String to Integer (atoi)	
 ###9.	Palindrome Number	
 ###10.	Regular Expression Matching
