@@ -87,7 +87,9 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###66.	Plus One	
 ###67.	Add Binary	
 ###68.	Text Justification	
-###69.	Sqrt(x)	
+###69.	Sqrt(x) `finish`
+>	* Apply the thinking of binary search  
+
 ###70.	Climbing Stairs	
 ###71.	Simplify Path	
 ###72.	Edit Distance	
@@ -112,7 +114,9 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###91.	Decode Ways	
 ###92.	Reverse Linked List II	
 ###93.	Restore IP Addresses	
-###94.	Binary Tree Inorder Traversal
+###94.	Binary Tree Inorder Traversal `finish`
+>	* make use of stack and queue when traverse the tree  
+
 ###95.	Unique Binary Search Trees II
 ###96.	Unique Binary Search Trees
 ###97.	Interleaving String	
