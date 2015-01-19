@@ -79,7 +79,11 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###58.	Length of Last Word	
 ###59.	Spiral Matrix II	
 ###60.	Permutation Sequence	
-###61.	Rotate List	
+###61.	Rotate List	`finish`
+>	* Count the full list and make it to be a circle
+>	* use `n mod count` to calculate how many elements should be left.
+>	* traverse again and split circle at appropriate point. 
+
 ###62.	Unique Paths	
 ###63.	Unique Paths II	
 ###64.	Minimum Path Sum	
