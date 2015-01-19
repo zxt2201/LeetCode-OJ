@@ -13,11 +13,9 @@ public class P69_Sqrt{
                 right = mid-1;
             }
         }
-        if(left*left>x&&(left-1)*(left-1)<x){
+        if(left*left>x){
             return (int)(left-1);
-        }else if(left*left<=x&&(left+1)*(left+1)>x){
+        }else
             return (int)left;
-        }
-        return -1;
     }
 }
