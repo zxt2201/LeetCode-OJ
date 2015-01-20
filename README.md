@@ -75,7 +75,9 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###51.	N-Queens	
 ###52.	N-Queens II	
 ###53.	Maximum Subarray	
-###54.	Spiral Matrix	
+###54.	Spiral Matrix	`finish`
+>	* careful about the cases that number of cols or rows is odd  
+
 ###55.	Jump Game	
 ###56.	Merge Intervals	
 ###57.	Insert Interval	
@@ -192,6 +194,7 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###155. Min Stack	`finish`
 >	* trade-off between time and space.
 >	* use one more stack store the min-value
+>	* only update the "minStack" when a new min value come
 >	* one more space at the bottom of stack (with value `Integer.MAX_VALUE`)  
 
 ###156. Binary Tree Upside Down 	

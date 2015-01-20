@@ -9,13 +9,14 @@ public class P155_MinStack{
     
     public void push(int x) {
         stack.push(x);
-        int min = Math.min(minStack.peek(),x);
-        minStack.push(min);
+        if(x<=minStack.peek())
+            minStack.push(x);
     }
 
     public void pop() {
-        stack.pop();
-        minStack.pop();
+        int c = stack.pop();
+        if(minStack.peek()==c)
+            minStack.pop();
     }
 
     public int top() {
