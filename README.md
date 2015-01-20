@@ -47,7 +47,10 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###26.	Remove Duplicates from Sorted Array
 ###27.	Remove Element	
 ###28.	Implement strStr()	
-###29.	Divide Two Integers	
+###29.	Divide Two Integers `finish`
+>	* `>>1` => `/2`
+>	* `<<1` => `*2`  
+
 ###30.	Substring with Concatenation of All Words
 ###31.	Next Permutation	
 ###32.	Longest Valid Parentheses
