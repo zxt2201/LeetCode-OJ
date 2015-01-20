@@ -189,7 +189,11 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###152. Maximum Product Subarray	
 ###153. Find Minimum in Rotated Sorted Array
 ###154. Find Minimum in Rotated Sorted Array II
-###155. Min Stack	
+###155. Min Stack	`finish`
+>	* trade-off between time and space.
+>	* use one more stack store the min-value
+>	* one more space at the bottom of stack (with value `Integer.MAX_VALUE`)  
+
 ###156. Binary Tree Upside Down 	
 ###157. Read N Characters Given Read4 
 ###158. Read N Characters Given Read4 II - Call multiple times 
