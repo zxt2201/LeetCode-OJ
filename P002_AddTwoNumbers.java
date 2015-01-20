@@ -10,7 +10,7 @@
  * }
  */
 
-public class P2_AddTwoNumbers{
+public class P002_AddTwoNumbers{
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(-1);
         ListNode tmp = result;

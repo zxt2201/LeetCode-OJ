@@ -9,7 +9,7 @@
  *     }
  * }
  */
-public class P61_RotateList {
+public class P061_RotateList {
     public ListNode rotateRight(ListNode head, int n) {
         if(head==null){
             return null;

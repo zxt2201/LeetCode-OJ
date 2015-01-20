@@ -8,7 +8,7 @@
  * }
  */
 import java.util.*;
-public class P94_BTreeInorderTraversal {
+public class P094_BTreeInorderTraversal {
     public List<Integer> inorderTraversal(TreeNode root) {
         ArrayList<Integer> list = new ArrayList<Integer>();
         Stack<TreeNode> stack = new Stack<TreeNode>();

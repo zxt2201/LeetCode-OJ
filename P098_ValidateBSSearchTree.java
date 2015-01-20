@@ -1,5 +1,5 @@
 
-public class P98_ValidateBSSearchTree{
+public class P098_ValidateBSSearchTree{
 	public boolean isValidBST(TreeNode root) {
         return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }

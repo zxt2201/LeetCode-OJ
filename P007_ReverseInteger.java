@@ -1,5 +1,5 @@
 
-public class P7_ReverseInteger{
+public class P007_ReverseInteger{
 	public int reverse(int x) {
         boolean pos = x>=0;
         int abs = x>=0?x:-x;

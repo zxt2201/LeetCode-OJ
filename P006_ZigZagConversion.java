@@ -1,5 +1,5 @@
 
-public class P6_ZigZagConversion{
+public class P006_ZigZagConversion{
 	public String convert(String s, int nRows) {
         StringBuilder sb = new StringBuilder();
         int distance = 2*(nRows-1);

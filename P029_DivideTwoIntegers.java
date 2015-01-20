@@ -1,5 +1,5 @@
 
-public class P29_DivideTwoIntegers{
+public class P029_DivideTwoIntegers{
 	public int divide(int dividend, int divisor) {
         long longDividend = (long)dividend;
         long longDivisor = (long)divisor;

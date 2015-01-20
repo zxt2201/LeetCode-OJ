@@ -1,5 +1,5 @@
 
-public class P69_Sqrt{
+public class P069_Sqrt{
 	public int sqrt(int x) {
         long left =0;
         long right = x;
