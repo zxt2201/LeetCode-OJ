@@ -165,7 +165,10 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###136. Single Number	
 ###137. Single Number II	
 ###138. Copy List with Random Pointer
-###139. Word Break	
+###139. Word Break	`finish`
+>	* DP, use boolean array record whether current index is achievable.
+>	* one addition space in array make it more readable.  
+
 ###140. Word Break II	
 ###141. Linked List Cycle	
 ###142. Linked List Cycle II	
