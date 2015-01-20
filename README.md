@@ -127,7 +127,9 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###95.	Unique Binary Search Trees II
 ###96.	Unique Binary Search Trees
 ###97.	Interleaving String	
-###98.	Validate Binary Search Tree
+###98.	Validate Binary Search Tree `finish`
+>	* use Long to avoid the case that `Integer.MAX_VALUE` and `Integer.MIN_VALUE` included in the tree
+
 ###99. Recover Binary Search Tree
 ###100. Same Tree	
 ###101. Symmetric Tree	
