@@ -77,6 +77,7 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###53.	Maximum Subarray	
 ###54.	Spiral Matrix	`finish`
 >	* careful about the cases that number of cols or rows is odd  
+>	* use `LinkedList` to imporve the performance when adding elements to list.  
 
 ###55.	Jump Game	
 ###56.	Merge Intervals	

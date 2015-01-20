@@ -1,7 +1,7 @@
 
 public class P054_SpiralMatrix{
 	public List<Integer> spiralOrder(int[][] matrix) {
-        ArrayList<Integer> list  = new ArrayList<Integer>();
+        LinkedList<Integer> list  = new LinkedList<Integer>();
         if(matrix.length==0){
             return list;
         }
