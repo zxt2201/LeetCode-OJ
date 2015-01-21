@@ -220,4 +220,6 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###172. Factorial Trailing Zeroes
 ###173. Binary Search Tree Iterator
 ###174. Dungeon Game	
-###179. Largest Number	
+###179. Largest Number	`finish`
+>	* self-define Comparator
+>	* two different comparators are given in code  
