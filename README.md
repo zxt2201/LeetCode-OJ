@@ -211,10 +211,15 @@ All Questions are from [oj.leetcode.com](oj.leetcode.com)
 ###166. Fraction to Recurring Decimal
 ###167. Two Sum II - Input array is sorted 
 ###168. Excel Sheet Column Title	
-###169. Majority Element	
+###169. Majority Element	`finish`
+>	* Basic Concept: remove pair of different elements from the list, the majority element will not change.
+>	* use stack to implement.
+
 ###170. Two Sum III - Data structure design 
 ###171. Excel Sheet Column Number
 ###172. Factorial Trailing Zeroes
 ###173. Binary Search Tree Iterator
 ###174. Dungeon Game	
-###179. Largest Number	
+###179. Largest Number	`finish`
+>	* self-define Comparator
+>	* two different comparators are given in code  
